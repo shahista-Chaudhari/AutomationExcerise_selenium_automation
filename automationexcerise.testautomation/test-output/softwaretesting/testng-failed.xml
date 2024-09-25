@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretesting]">
+  <parameter name="mm" value="09"/>
+  <parameter name="country" value="India"/>
+  <parameter name="address" value="Chandni Chowk"/>
+  <parameter name="city" value="Mumbai"/>
+  <parameter name="year" value="2003"/>
+  <parameter name="mobile" value="8712312342"/>
+  <parameter name="cname" value="John Pax"/>
+  <parameter name="title" value="mr"/>
+  <parameter name="url" value="https://automationexercise.com/"/>
+  <parameter name="zipcode" value="410278"/>
+  <parameter name="cvc" value="231"/>
+  <parameter name="password" value="johnpax@123456"/>
+  <parameter name="lname" value="Pax"/>
+  <parameter name="month" value="June"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="name" value="John"/>
+  <parameter name="yyyy" value="2030"/>
+  <parameter name="company" value="Atos"/>
+  <parameter name="state" value="Maharashtra"/>
+  <parameter name="user" value="johnpax"/>
+  <parameter name="day" value="23"/>
+  <parameter name="email" value="johnpax2@gmail.com"/>
+  <parameter name="card" value="CXAERD12A"/>
+  <test thread-count="5" name="ChromeTest(failed)">
+    <classes>
+      <class name="com.automationexcerise.testautomation.TestPlaceOrder">
+        <methods>
+          <include name="testPage" invocation-numbers="0"/>
+          <include name="setupDriver"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.automationexcerise.testautomation.TestPlaceOrder -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [softwaretesting] -->

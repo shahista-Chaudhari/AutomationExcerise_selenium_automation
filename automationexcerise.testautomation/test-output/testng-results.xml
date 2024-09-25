@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T13:35:10 IST" name="softwaretesting" finished-at="2024-09-25T13:36:00 IST" duration-ms="50623">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T13:35:10 IST" name="ChromeTest" finished-at="2024-09-25T13:36:00 IST" duration-ms="50623">
+      <class name="com.automationexcerise.testautomation.TestAddtoCart">
+        <test-method signature="testPage()[pri:2, instance:com.automationexcerise.testautomation.TestAddtoCart@3e8c3cb]" started-at="2024-09-25T13:35:20 IST" name="testPage" finished-at="2024-09-25T13:35:30 IST" duration-ms="10327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+      </class> <!-- com.automationexcerise.testautomation.TestAddtoCart -->
+      <class name="com.automationexcerise.testautomation.TestLoginPage">
+        <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:35:03 IST" name="setupDriver" finished-at="2024-09-25T13:35:10 IST" duration-ms="6434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://automationexercise.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="testPage(java.lang.String,java.lang.String)[pri:1, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:35:10 IST" name="testPage" finished-at="2024-09-25T13:35:20 IST" duration-ms="10118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[johnpax2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[johnpax@123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:36:00 IST" name="closeDriver" finished-at="2024-09-25T13:36:02 IST" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automationexcerise.testautomation.TestLoginPage -->
+      <class name="com.automationexcerise.testautomation.TestPlaceOrder">
+        <test-method signature="testPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.automationexcerise.testautomation.TestPlaceOrder@563f38c4]" started-at="2024-09-25T13:35:30 IST" name="testPage" finished-at="2024-09-25T13:36:00 IST" duration-ms="30140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John Pax]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CXAERD12A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[231]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[09]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2030]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+      </class> <!-- com.automationexcerise.testautomation.TestPlaceOrder -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- softwaretesting -->
+</testng-results>

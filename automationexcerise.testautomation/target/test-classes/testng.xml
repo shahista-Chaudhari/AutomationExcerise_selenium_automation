@@ -1,0 +1,35 @@
+<suite name="softwaretesting">
+	
+	<parameter name="url" value="https://automationexercise.com/"/>
+	<parameter name="browser" value="chrome"/>
+	<parameter name="user" value="johnpax"/>  
+	<parameter name="email" value="johnpax2@gmail.com"/> <!-- Change this to create new user -->
+	<parameter name="title" value="mr"/>
+	<parameter name="day" value="23"/>
+	<parameter name="month" value="June"/>
+	<parameter name="password" value="johnpax@123456"/>
+	<parameter name="name" value="John"/>
+	<parameter name="lname" value="Pax"/>
+	<parameter name="country" value="India"/>
+	<parameter name="address" value="Chandni Chowk"/>
+	<parameter name="state" value="Maharashtra"/>
+	<parameter name="city" value="Mumbai"/>
+	<parameter name="year" value="2003"/>
+	<parameter name="mobile" value="8712312342"/>
+	<parameter name="company" value="Atos"/>
+	<parameter name="zipcode" value="410278"/>
+	<parameter name="cname" value="John Pax"/>
+	<parameter name="card" value="CXAERD12A"/>
+	<parameter name="mm" value="09"/>
+	<parameter name="yyyy" value="2030"/>
+	<parameter name="cvc" value="231"/>
+	
+	<test name="ChromeTest">
+	<classes>
+	<!-- <class name="com.automationexcerise.testautomation.TestSignUpPage" />  Comment this to use existing user  -->	 
+	    <class name="com.automationexcerise.testautomation.TestLoginPage" />
+	 	<class name="com.automationexcerise.testautomation.TestAddtoCart" /> 
+		<class name="com.automationexcerise.testautomation.TestPlaceOrder" /> 
+	</classes>
+	</test>
+</suite>
