@@ -1,7 +1,7 @@
 <!-- PROJECT HEADER -->
 <p align="center">
   <!--PROJECT TITLE AND DESCRIPTION -->
- <h1 align="center">Automation of Product Store Web Application Using Selenium and TestNG</h1>
+ <h1 align="center">Automation of https://automationexercise.com/[AutomationExcerise Web Application] Using Selenium and TestNG</h1>
 
   <p align="center">
     A web automation project to automate testing process Online Store built using Selenium & TestNG in Java.
