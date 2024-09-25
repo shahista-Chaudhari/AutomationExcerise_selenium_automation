@@ -48,15 +48,15 @@ Steps are listed below to get this project up and running in your development en
 git clone https://github.com/lavatech321/AutomationExcerise_selenium_automation.git
 ```
 
-* Open _testautomation_ folder in Eclipse.
+* Open _automationexcerise.testautomation_ folder in Eclipse by selecting "File -> Import -> Maven -> Existing Maven Project" and select _automationexcerise.testautomation_ folder. 
   
-* Finally run maven build command:
+* Optionally, run maven build command if you don't see "Maven Dependencies" folder:
 
 ```
 mvn clean install
 ```
 
-* You can also right click the project, and select "Maven -> Update Project -> Check the 'Force Update of Snapshots/Releases' -> Ok". This will update the "Maven Dependencies" project.
+You can also right click the project, and select "Maven -> Update Project -> Check the 'Force Update of Snapshots/Releases' -> Ok". This will update the "Maven Dependencies" project.
 
 * After making any changes to the repository, you can package the code into a jar file:
   
@@ -82,4 +82,4 @@ Congrats !!! You are now able to run the project in your own development environ
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/lavatech-technology-81aa6a14b
+[linkedin-url]: https://www.linkedin.com/in/lavatech-technology-81aa6a14b/
