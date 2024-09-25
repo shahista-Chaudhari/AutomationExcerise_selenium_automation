@@ -22,7 +22,7 @@
 ## About The Project
 The objective of this project is to automate key functionalities of a web application using Selenium WebDriver integrated with TestNG for test management. The project covers automating user signup, login, adding products to the cart, placing an order and downloading the invoice. TestNG is used for organizing and running test cases efficiently, generating detailed reports, and handling assertions for validating each functionality.
 
-![Automation Demonstration](./demo.gif)
+![Automation Demonstration](./automation.gif)
 
 ### Built With
 * [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) as programming language
