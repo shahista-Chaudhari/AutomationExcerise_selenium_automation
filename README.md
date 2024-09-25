@@ -72,6 +72,10 @@ _Note: I have used JAR for packaging. If you want to build into the jar file, ch
 
 Congrats !!! You are now able to run the project in your own development environment.
 
+* You can run this project as _TestNG Suite_ by right clicking the project and select "Run As -> TestNG Suite".
+
+_Note: I have place *testng.xml* file under src/test/resources folder._
+
 ## Authors
 
 * **Lavatech Technology** - *Initial work* - [Yogita Soni](https://github.com/lavatech321)
