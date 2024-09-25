@@ -1,7 +1,7 @@
 <!-- PROJECT HEADER -->
 <p align="center">
   <!--PROJECT TITLE AND DESCRIPTION -->
- <h1 align="center">Automation of [AutomationExcerise Web Application](https://automationexercise.com/) Using Selenium and TestNG</h1>
+ <h1 align="center">Automation of AutomationExcerise Web Application Using Selenium and TestNG</h1>
 
   <p align="center">
     A web automation project to automate testing process Online Store built using Selenium & TestNG in Java.
@@ -20,10 +20,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-The objective of this project is to automate key functionalities of a product store web application using Selenium WebDriver integrated with TestNG for test management. The project covers automating user signup, login, adding products to the cart, and placing an order. TestNG is used for organizing and running test cases efficiently, generating detailed reports, and handling assertions for validating each functionality.
+The objective of this project is to automate key functionalities of a web application using Selenium WebDriver integrated with TestNG for test management. The project covers automating user signup, login, adding products to the cart, placing an order and downloading the invoice. TestNG is used for organizing and running test cases efficiently, generating detailed reports, and handling assertions for validating each functionality.
 
 ![Automation Demonstration](./demo.gif)
-
 
 ### Built With
 * [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) as programming language
@@ -46,48 +45,41 @@ Steps are listed below to get this project up and running in your development en
 
 * Clone this repository in your target folder.
 ```
-git clone https://github.com/bishwa-poudel/selenium-web-automation-example.git
+git clone https://github.com/lavatech321/AutomationExcerise_selenium_automation.git
 ```
 
+* Open _testautomation_ folder in Eclipse.
+  
 * Finally run maven build command:
 
 ```
 mvn clean install
 ```
 
-![image](https://user-images.githubusercontent.com/16562819/108626213-270c9b80-7477-11eb-8988-d36f9f60f0fc.png)
+* You can also right click the project, and select "Maven -> Update Project -> Check the 'Force Update of Snapshots/Releases' -> Ok". This will update the "Maven Dependencies" project.
 
-* Once you see this message in the console, your build is ready. Goto `target/lis-intranet-automation.war}` to get the archived file.
-
-_Note: I have used WAR for packaging. If you want to build into the jar file, change the `<packaging>` inside pom.xml file to jar._
+* After making any changes to the repository, you can package the code into a jar file:
+  
+```
+mvn clean package
+```
+  
+_Note: I have used JAR for packaging. If you want to build into the jar file, change the `<packaging>` inside pom.xml file to war._
 
 ```
  <packaging>jar</packaging>
 ```
 
-Now you can use any application server to deploy the archived java file. For this project I am using [Wildfly v22.0.1](https://www.wildfly.org/) 
-
 Congrats !!! You are now able to run the project in your own development environment.
-
-### For Manual Check in
-```http
-GET /lis-intranet-automation/api/action/checkin
-```
-
-### For Manual Checkout
-```http
-GET /lis-intranet-automation/api/action/checkout
-```
 
 ## Authors
 
 * **Lavatech Technology** - *Initial work* - [Yogita Soni](https://github.com/lavatech321)
 
 ## Contact
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/lavatech-technology-81aa6a14b/
+[linkedin-url]: https://www.linkedin.com/in/lavatech-technology-81aa6a14b
