@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-25T13:35:10 IST" name="softwaretesting" finished-at="2024-09-25T13:36:00 IST" duration-ms="50623">
+  <suite started-at="2024-09-26T14:57:07 IST" name="softwaretesting" finished-at="2024-09-26T14:58:04 IST" duration-ms="56785">
     <groups>
     </groups>
-    <test started-at="2024-09-25T13:35:10 IST" name="ChromeTest" finished-at="2024-09-25T13:36:00 IST" duration-ms="50623">
+    <test started-at="2024-09-26T14:57:07 IST" name="ChromeTest" finished-at="2024-09-26T14:58:04 IST" duration-ms="56785">
       <class name="com.automationexcerise.testautomation.TestAddtoCart">
-        <test-method signature="testPage()[pri:2, instance:com.automationexcerise.testautomation.TestAddtoCart@3e8c3cb]" started-at="2024-09-25T13:35:20 IST" name="testPage" finished-at="2024-09-25T13:35:30 IST" duration-ms="10327" status="PASS">
+        <test-method signature="testPage()[pri:2, instance:com.automationexcerise.testautomation.TestAddtoCart@3e8c3cb]" started-at="2024-09-26T14:57:20 IST" name="testPage" finished-at="2024-09-26T14:57:32 IST" duration-ms="11897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPage -->
       </class> <!-- com.automationexcerise.testautomation.TestAddtoCart -->
       <class name="com.automationexcerise.testautomation.TestLoginPage">
-        <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:35:03 IST" name="setupDriver" finished-at="2024-09-25T13:35:10 IST" duration-ms="6434" status="PASS">
+        <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-26T14:56:56 IST" name="setupDriver" finished-at="2024-09-26T14:57:07 IST" duration-ms="10607" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,7 +29,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method signature="testPage(java.lang.String,java.lang.String)[pri:1, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:35:10 IST" name="testPage" finished-at="2024-09-25T13:35:20 IST" duration-ms="10118" status="PASS">
+        <test-method signature="testPage(java.lang.String,java.lang.String)[pri:1, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-26T14:57:07 IST" name="testPage" finished-at="2024-09-26T14:57:20 IST" duration-ms="12927" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,13 +45,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPage -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-25T13:36:00 IST" name="closeDriver" finished-at="2024-09-25T13:36:02 IST" duration-ms="2159" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automationexcerise.testautomation.TestLoginPage@25ce9dc4]" started-at="2024-09-26T14:58:04 IST" name="closeDriver" finished-at="2024-09-26T14:58:06 IST" duration-ms="2165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
       </class> <!-- com.automationexcerise.testautomation.TestLoginPage -->
       <class name="com.automationexcerise.testautomation.TestPlaceOrder">
-        <test-method signature="testPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.automationexcerise.testautomation.TestPlaceOrder@563f38c4]" started-at="2024-09-25T13:35:30 IST" name="testPage" finished-at="2024-09-25T13:36:00 IST" duration-ms="30140" status="PASS">
+        <test-method signature="testPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:com.automationexcerise.testautomation.TestPlaceOrder@563f38c4]" started-at="2024-09-26T14:57:32 IST" name="testPage" finished-at="2024-09-26T14:58:04 IST" duration-ms="31901" status="PASS">
           <params>
             <param index="0">
               <value>
