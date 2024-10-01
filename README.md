@@ -70,6 +70,12 @@ _Note: I have used JAR for packaging. If you want to build into the jar file, ch
  <packaging>jar</packaging>
 ```
 
+* You can run this project using below mvn command:
+  
+```
+mvn clean test
+```
+
 Congrats !!! You are now able to run the project in your own development environment.
 
 * You can run this project as _TestNG Suite_ by right clicking the project and select "Run As -> TestNG Suite".
