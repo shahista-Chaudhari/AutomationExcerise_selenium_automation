@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/lavatech-technology-81aa6a14b/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
             alt="follow on LinkedIn"></a>
-    <a href="">
+    <a href="add your twitter link here">
         <img src="https://img.shields.io/twitter/follow/_?style=for-the-badge&logo=twitter"
             alt="follow on LinkedIn"></a>
 
