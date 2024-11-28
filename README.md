@@ -86,6 +86,7 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
             alt="follow on LinkedIn"></a>
 
+[Email_ID]: chaudharishahi@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
