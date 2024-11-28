@@ -83,6 +83,8 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 * **Shahista Chaudhari** - *Initial work* - [Shahista Chaudhari](https://github.com/ Shahista Chaudhari)
 
 ## Contact
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
+            alt="follow on LinkedIn"></a>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
