@@ -80,7 +80,7 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 
 ## Authors
 
-* **Shahista Chaudhari** - *Initial work* - [Shahista Chaudhari](https://github.com/Shahista Chaudhari)
+* **Shahista Chaudhari** - *Initial work* - [Shahista Chaudhari](https://github.com/ Shahista Chaudhari)
 
 ## Contact
 [![LinkedIn][linkedin-shield]][linkedin-url]
