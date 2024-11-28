@@ -83,9 +83,9 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 * **Shahista Chaudhari** - *Initial work* - [Shahista Chaudhari](https://github.com/ Shahista Chaudhari)
 
 ## Contact
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/Shahista Chaudhari/
+[linkedin-url]: https://www.linkedin.com/in/ Shahista Chaudhari/
