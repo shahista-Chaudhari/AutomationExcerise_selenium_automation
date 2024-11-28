@@ -6,11 +6,9 @@
   <p align="center">
     A web automation project to automate testing process Online Store built using Selenium & TestNG in Java.
     <br /><br/>
-    <a href="https://www.linkedin.com/in/lavatech-technology-81aa6a14b/">
+    <a href="https://www.linkedin.com/in/Shahista Chaudhari/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
             alt="follow on LinkedIn"></a>
-    <a href="add your twitter link here">
-        <img src="https://img.shields.io/twitter/follow/_?style=for-the-badge&logo=twitter"
             alt="follow on LinkedIn"></a>
 
   </p>
@@ -45,7 +43,7 @@ Steps are listed below to get this project up and running in your development en
 
 * Clone this repository in your target folder.
 ```
-git clone https://github.com/lavatech321/AutomationExcerise_selenium_automation.git
+git clone https://github.com/shahista Chaudhari/AutomationExcerise_selenium_automation.git
 ```
 
 * Open _automationexcerise.testautomation_ folder in Eclipse by selecting "File -> Import -> Maven -> Existing Maven Project" and select _automationexcerise.testautomation_ folder. 
@@ -84,7 +82,7 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 
 ## Authors
 
-* **Lavatech Technology** - *Initial work* - [Yogita Soni](https://github.com/lavatech321)
+* **Shahista Chaudhari** - *Initial work* - [Shahista Chaudhari](https://github.com/Shahista Chaudhari)
 
 ## Contact
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -92,4 +90,4 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/lavatech-technology-81aa6a14b/
+[linkedin-url]: https://www.linkedin.com/in/Shahista Chaudhari/
