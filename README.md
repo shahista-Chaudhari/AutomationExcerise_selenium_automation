@@ -9,8 +9,6 @@
     <a href="https://www.linkedin.com/in/Shahista Chaudhari/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
             alt="follow on LinkedIn"></a>
-            alt="follow on LinkedIn"></a>
-
   </p>
 </p>
 <hr>
