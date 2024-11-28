@@ -84,10 +84,10 @@ _Note: I have place *testng.xml* file under src/test/resources folder._
 
 ## Contact
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555"
-            alt="follow on LinkedIn"></a>
+            alt="follow on LinkedIn">
 
 [Email_ID]: chaudharishahi@gmail.com
-
+</a>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
